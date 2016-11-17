@@ -1,9 +1,12 @@
 # vagrant-ember-sftp
 
 ## Why
-Using ember-cli under windows is pain. 
+Using ember-cli under windows is pain.
+
 Using ember-cli in a vagrant box with a shared folder is pain.
+
 Using ember-cli in a vagrant box with a samba drive is pain.
+
 For me this is the most convenient way to work with the ember-cli under windows by using the PhpStorm SFTP and Git integration.
 
 ## What
