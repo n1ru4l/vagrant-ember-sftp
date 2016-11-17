@@ -8,9 +8,9 @@ For me this is the most convenient way to work with the ember-cli under windows 
 
 ## What
 
-node 6.9.1 (LTS)
-npm 3.10.8
-ember-cli
+* node 6.9.1 (LTS)
+* npm 3.10.8
+* ember-cli
 
 ## Setup
 
@@ -33,13 +33,18 @@ Now your vagrant box is running.
 9. Set `Deployment path on server` to `/`
 10. Save your configuration by clicking on the `OK` Button
 
+
 Should look like this:
+
 ![Deployment 1](/img/deployment-1.jpg)
+
 ![Deployment 2](/img/deployment-2.jpg)
 
 
 Now you can confugure your upload settings in the `Tools/Deployment/Options` tab
+
 My recommended settings:
+
 ![Recommended Settings](/img/options.jpg)
 
 Also make sure to check `Tools/Deployment/Automatic Upload`
