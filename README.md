@@ -52,4 +52,7 @@ Also make sure to check `Tools/Deployment/Automatic Upload`
 ## Connection to the vagrant box
 
 Since phpStorm has a built in vagrant detection you can use `Tools/Deployment/Start SSH Sessions`. 
+
 Choose your vagrant box, change to the path you configured in the upload settings and you are ready to go!
+
+port `4200` is forwarded so you can access your ember application in your browser on `localhost:4200`
